@@ -1,0 +1,14 @@
+.introduce {
+    background: var(--danger-light, #FFF1F0);
+    padding: 40px 160px;
+}
+
+.introduce .introduce-description .introduce-title {
+    color: #FA541C;
+}
+
+
+.introduce .introduce-description{
+    height: 100%;
+    align-content: center;
+}

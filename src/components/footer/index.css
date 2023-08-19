@@ -1,0 +1,28 @@
+.footer {
+    padding: 24px 40px;
+    background-color: #FFF8F6;
+}
+
+.footer img {
+    max-width: 250px;
+    max-height: 100;
+}
+
+.footer .footer-upper {
+    padding-bottom: 24px;
+    border-bottom: 1px solid #ddd;
+    flex-wrap: nowrap;
+}
+
+
+.footer .footer-upper .footer-text-container {
+    width: fit-content;
+}
+
+.footer .footer-upper .footer-title, .footer-text {
+    width: fit-content;
+}
+
+.footer .footer-lower {
+    margin-top: 24px;
+}

@@ -1,0 +1,13 @@
+.apple-watch {
+    background-color: #FAFAFA;
+}
+.apple-watch-container{
+    padding: 40px 80px;
+    min-height: 500px;
+}
+
+.apple-watch .header-lower .header-menu .apple-watch-menu-item {
+    color: #FA541C;
+}
+
+

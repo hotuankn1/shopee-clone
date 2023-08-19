@@ -1,0 +1,35 @@
+.header-upper {
+    background-color: #FA541C;
+    padding: 16px 80px;
+}
+
+.header-lower {
+    padding: 16px 80px;
+    border-bottom: 1px solid #DDD;
+    background:  #FAFAFA;
+}
+
+.header-text {
+    color: #FFF;
+}
+
+.header .header-lower .header-menu {
+    height: 100%;
+    align-content: center;
+}
+
+.header .header-lower .header-icon {
+    color: #FA541C;
+}
+
+.header .header-lower .button-icon {
+    cursor: pointer;
+}
+
+.header .header-lower .button-icon:hover {
+    border: 1px solid #FA541C;
+}
+
+.header .header-lower .header-right {
+    border: none;
+}
